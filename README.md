@@ -15,3 +15,5 @@
       - LiveReload
       
 ***
+
+application.properties -> application.yml 사용!

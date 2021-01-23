@@ -1,4 +1,16 @@
-toyboard/demo/HyeongwonApplication.java
- toyboard.demo.HyeongwonApplication
-toyboard/demo/webservice/WebRestController.java
- toyboard.demo.webservice.WebRestController
+toyboard/domain/entity/TimeEntity.java
+ toyboard.domain.entity.TimeEntity
+toyboard/BoardApplication.java
+ toyboard.BoardApplication
+toyboard/repository/BoardRepository.java
+ toyboard.repository.BoardRepository
+toyboard/Service/BoardService.java
+ toyboard.Service.BoardService
+toyboard/domain/entity/BoardEntity.java
+ toyboard.domain.entity.BoardEntity
+ toyboard.domain.entity.BoardEntity$BoardEntityBuilder
+toyboard/dto/BoardDto.java
+ toyboard.dto.BoardDto
+ toyboard.dto.BoardDto$BoardDtoBuilder
+toyboard/controller/BoardController.java
+ toyboard.controller.BoardController

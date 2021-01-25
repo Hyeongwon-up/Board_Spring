@@ -4,13 +4,13 @@ toyboard/BoardApplication.java
  toyboard.BoardApplication
 toyboard/repository/BoardRepository.java
  toyboard.repository.BoardRepository
-toyboard/Service/BoardService.java
- toyboard.Service.BoardService
-toyboard/domain/entity/BoardEntity.java
- toyboard.domain.entity.BoardEntity
- toyboard.domain.entity.BoardEntity$BoardEntityBuilder
 toyboard/dto/BoardDto.java
  toyboard.dto.BoardDto
  toyboard.dto.BoardDto$BoardDtoBuilder
+toyboard/domain/entity/BoardEntity.java
+ toyboard.domain.entity.BoardEntity
+ toyboard.domain.entity.BoardEntity$BoardEntityBuilder
+toyboard/Service/BoardService.java
+ toyboard.Service.BoardService
 toyboard/controller/BoardController.java
  toyboard.controller.BoardController

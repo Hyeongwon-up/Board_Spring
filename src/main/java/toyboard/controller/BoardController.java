@@ -10,15 +10,19 @@ import toyboard.dto.BoardDto;
 
 import java.util.List;
 
-@Controller //컨트롤러임을 명
+@Controller //컨트롤러임을 명시  @Controller + @ResponseBody = @RestController ==> view 페이지가 필요없는 API 응답에 어울린다.
 @AllArgsConstructor
 public class BoardController {
 
 
     private BoardService boardService;
 
+
     @GetMapping("/")
-    public String list() {
+    public String list(Model model) {
+        List<BoardDto> boardList = boardService.getBoardlist();
+
+        model.addAttribute("boardList", boardList);
         return "board/list.html";
     }
 

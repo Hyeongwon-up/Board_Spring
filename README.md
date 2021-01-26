@@ -10,7 +10,7 @@
       - MySQL
 ### - 라이브러리
       - JPA
-      - Thymeleaf https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#introducing-thymeleaf
+      - Thymeleaf [Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#introducing-thymeleaf)
       - Lombok
       - LiveReload
       

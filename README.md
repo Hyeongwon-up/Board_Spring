@@ -10,11 +10,12 @@
       - MySQL
 ### - 라이브러리
       - JPA
-      - Thymeleaf [Thymeleaf] (https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#introducing-thymeleaf)
+      - Thymeleaf 
       - Lombok
       - LiveReload
       
-      
+
+[Thymeleaf](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#introducing-thymeleaf){:target="_blank"}
       
 ***
 ## update
